@@ -10,5 +10,4 @@ public class MethodOverridingExecutor {
 		System.out.println(m1.mul(10, 20));//parent class method
 
 	}
-
 }
